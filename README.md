@@ -1,47 +1,67 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="55%" alt="Hello Coders"/>
 
-<br>
+# 👋 Hi, I'm **Ali Shrateh**
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
+### 🎓 Computer Science Student  |  🧪 Aspiring QA Engineer  |  💻 Software Testing Enthusiast
+
+<p>
+  <a href="https://github.com/alishrateh902-png">
+    <img src="https://img.shields.io/badge/GitHub-Ali%20Shrateh-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:alishrateh902@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
-# 💫 About Me
-
-I am a Computer Science student with a strong interest in **Quality Assurance (QA) Engineering, Software Testing, and Software Quality**.
-
-I am passionate about ensuring software reliability, identifying defects, and improving the overall quality of software products. My interests include **Test Automation, Software Testing Methodologies, Regression Testing, Software Quality Engineering, and modern QA practices**.
-
-I continuously work on developing my technical, analytical, and problem-solving skills while building practical software and testing projects. I am committed to continuous learning and building a strong professional career in **QA Engineering**.
-
 ---
 
-## 🧪 QA & Software Testing
+## 💫 About Me
 
-* 🔍 Software Testing & Quality Assurance
-* 🧪 Functional & Non-Functional Testing
+<img align="right" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="35%" alt="Coding"/>
+
+I am **Ali Shrateh**, a Computer Science student with a strong interest in **Quality Assurance (QA) Engineering, Software Testing, and Software Quality**.
+
+I am passionate about building reliable software, identifying defects, designing effective test cases, and improving the overall quality of software products.
+
+My main interests include:
+
+* 🧪 Software Testing & Quality Assurance
+* 🤖 Test Automation
 * 🔄 Regression Testing
+* 🔍 Functional & Non-Functional Testing
 * ⚫ Black Box & White Box Testing
 * 🧩 Unit & Integration Testing
 * 📊 Test Case Design
-* 📋 Requirements Analysis
-* 🤖 Test Automation
-* 🔀 State Transition & Decision Table Testing
-* 📈 Control Flow Graph & Cyclomatic Complexity
-* 🛠️ Software Quality Engineering
+* 🐞 Defect Identification & Reporting
+* 📈 Software Quality Engineering
+* 🧠 AI-Driven Software Testing
+* ⚙️ Continuous Quality Improvement
+
+I continuously develop my **technical, analytical, and problem-solving skills** through academic projects, practical development, and software testing activities.
+
+> 🎯 **My goal:** Build a strong professional career as a **QA Engineer** and contribute to delivering reliable, high-quality software.
+
+<br clear="right"/>
 
 ---
 
-## 🌐 Socials
+# 🧪 QA Engineering Focus
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/Ali%20Shrateh)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat\&logo=Instagram\&logoColor=white)](https://instagram.com/zx.ar99)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat\&logo=Facebook\&logoColor=white)](https://facebook.com/Ali%20Shrateh)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat\&logo=TikTok\&logoColor=white)](https://tiktok.com/@Ali%20Shrateh)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat\&logo=YouTube\&logoColor=white)](https://youtube.com/@Ali%20Shrateh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:alishrateh902@gmail.com)
+<div align="center">
+
+|      🔍 Testing     |   🤖 Automation   |        📊 Quality       |
+| :-----------------: | :---------------: | :---------------------: |
+|  Functional Testing |  Test Automation  |     Software Quality    |
+|  Regression Testing | Automated Testing |    Defect Management    |
+| Integration Testing |  Test Frameworks  |   Quality Engineering   |
+|  Black Box Testing  |   CI/CD Testing   |  Continuous Improvement |
+|  White Box Testing  |   Test Execution  | Requirements Validation |
+
+</div>
 
 ---
 
@@ -49,77 +69,125 @@ I continuously work on developing my technical, analytical, and problem-solving 
 
 ### 👨‍💻 Programming Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=flat\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat\&logo=dart\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+</p>
 
 ### 🧪 Testing & QA
 
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat\&logo=jest\&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat\&logo=junit\&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Software%20Testing-Quality%20Assurance-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Test%20Automation-Engineering-0A7EA4?style=for-the-badge"/>
+</p>
 
-### 🗄️ Databases & Cloud
+### 🗄️ Database & Cloud
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat\&logo=firebase\&logoColor=black)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat\&logo=oracle\&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat\&logo=googlecloud\&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</p>
 
-### 🛠️ Development & Collaboration
+### 🛠️ Development Tools
 
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat\&logo=android-studio\&logoColor=white)
-
-### 📐 Software Engineering
-
-![UML](https://img.shields.io/badge/UML-02569B?style=flat\&logo=uml\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat\&logo=dotnet\&logoColor=white)
-
----
-
-## 📚 Currently Learning
-
-* 🧪 Advanced Software Testing
-* 🤖 Test Automation
-* 🔄 Regression Test Automation
-* 📊 Software Quality Engineering
-* 🧠 AI-driven Software Testing
-* 📈 Machine Learning for Test Case Selection & Prioritization
-* ⚙️ Modern QA Engineering Practices
+<p>
+<img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+</p>
 
 ---
 
-## 🚀 Software Engineering Interests
+# 🌐 Web Technologies
+
+<div align="center">
+
+### HTML5
+
+```html
+<section class="qa-engineer">
+    <h1>Ali Shrateh</h1>
+    <p>Quality Assurance Engineer</p>
+</section>
+```
+
+### CSS3
+
+```css
+.qa-engineer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    transition: all 0.3s ease;
+}
+
+.qa-engineer:hover {
+    transform: scale(1.03);
+}
+```
+
+</div>
+
+---
+
+# 🚀 What I Work With
 
 ```text
-Software Quality
-       ↓
-Requirements Analysis
-       ↓
-Test Planning
-       ↓
-Test Case Design
-       ↓
-Test Execution
-       ↓
-Defect Identification
-       ↓
-Regression Testing
-       ↓
-Automation
-       ↓
-Continuous Quality Improvement
+                    ┌───────────────────────┐
+                    │     SOFTWARE QUALITY  │
+                    └───────────┬───────────┘
+                                │
+              ┌─────────────────┼─────────────────┐
+              │                 │                 │
+              ▼                 ▼                 ▼
+        ┌───────────┐     ┌────────────┐    ┌────────────┐
+        │   TESTING │     │ AUTOMATION │    │   QUALITY  │
+        └─────┬─────┘     └──────┬─────┘    └──────┬─────┘
+              │                  │                  │
+              ▼                  ▼                  ▼
+        Test Cases          Test Scripts       Defect Analysis
+        Regression          Unit Tests         Requirements
+        Integration         CI/CD              Improvements
+        Black Box           Automated QA       Reliability
+        White Box
 ```
 
 ---
 
-# 📊 GitHub Stats
+# 📚 Currently Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Advanced%20Software%20Testing-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Test%20Automation-0A7EA4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/QA%20Engineering-2E8B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20in%20Testing-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software%20Quality-8A2BE2?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -135,7 +203,7 @@ Continuous Quality Improvement
 
 ---
 
-## 📈 Top Contributed Repositories
+# 📈 Contribution Overview
 
 <div align="center">
 
@@ -145,10 +213,40 @@ Continuous Quality Improvement
 
 ---
 
+# 🌐 Connect With Me
+
 <div align="center">
 
-### 💡 "Quality is not an act, it is a habit."
+<a href="https://linkedin.com/in/Ali%20Shrateh">
+<img src="https://img.shields.io/badge/LinkedIn-Ali%20Shrateh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-⭐ Thanks for visiting my profile!
+<a href="mailto:alishrateh902@gmail.com">
+<img src="https://img.shields.io/badge/Email-alishrateh902%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/zx.ar99">
+<img src="https://img.shields.io/badge/Instagram-zx.ar99-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@Ali%20Shrateh">
+<img src="https://img.shields.io/badge/YouTube-Ali%20Shrateh-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 
 </div>
+
+---
+
+<div align="center">
+
+### 🧪 Test → Find → Fix → Improve → Repeat
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="30%" alt="Developer"/>
+
+### ⭐ Thanks for visiting my profile!
+
+**Ali Shrateh — Aspiring QA Engineer**
+
+</div>
+
+<!-- Profile README created for Ali Shrateh -->
