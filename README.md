@@ -2,7 +2,15 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=ALI%20SHRATEH&fontAlign=50&fontAlignY=40&fontSize=55&fontColor=ffffff&desc=QA%20ENGINEERING%20%7C%20SOFTWARE%20TESTING%20%7C%20QUALITY%20ASSURANCE&descAlign=50&descAlignY=65&descSize=18&animation=fadeIn&color=0:6C63FF,100:00B894" width="100%" alt="Ali Shrateh"/>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2500&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ali+Shrateh+%F0%9F%91%8B;Aspiring+QA+Engineer+%F0%9F%A7%AA;Software+Testing+Enthusiast+%F0%9F%92%BB;Building+Quality+Through+Testing+%F0%9F%9A%80" alt="Ali Shrateh"/>
+
+<br>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" alt="Ali Shrateh Working"/>
+
+</div>
 
 </div>
 <br><br>
