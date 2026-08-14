@@ -4,8 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2500&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ali+Shrateh+%F0%9F%91%8B;Aspiring+QA+Engineer+%F0%9F%A7%AA;Software+Testing+Enthusiast+%F0%9F%92%BB;Building+Quality+Through+Testing+%F0%9F%9A%80" alt="Ali Shrateh"/>
-
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
 <br>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" alt="Ali Shrateh Working"/>
