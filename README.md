@@ -1,7 +1,10 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="65%" alt="Hello Coders"/>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=ALI%20SHRATEH&fontAlign=50&fontAlignY=40&fontSize=55&fontColor=ffffff&desc=QA%20ENGINEERING%20%7C%20SOFTWARE%20TESTING%20%7C%20QUALITY%20ASSURANCE&descAlign=50&descAlignY=65&descSize=18&animation=fadeIn&color=0:6C63FF,100:00B894" width="100%" alt="Ali Shrateh"/>
+
+</div>
 <br><br>
 
 # 👋 Hi, I'm **Ali Shrateh**
