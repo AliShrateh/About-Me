@@ -347,8 +347,7 @@ AI-Driven Testing
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=alishrateh902-png&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
-
+<img src="https://img.shields.io/badge/PROFILE%20VIEWS-1200-6C63FF?style=for-the-badge&labelColor=6C63FF"/>
 </div>
 
 <!--
