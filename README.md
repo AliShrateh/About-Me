@@ -302,15 +302,7 @@ AI-Driven Testing
 
 ---
 
-# 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=alishrateh902-png&limit=5&theme=dark&combine_all_yearly_contributions=true" width="85%"/>
-
-</div>
-
----
 
 # 🌐 Let's Connect
 
